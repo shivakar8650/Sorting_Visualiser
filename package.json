@@ -1,0 +1,11 @@
+{
+  "name": "sorting_visualizer",
+  "version": "1.0.0",
+  "description": "this project to understand the sorting visually",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivakar",
+  "license": "ISC"
+}
