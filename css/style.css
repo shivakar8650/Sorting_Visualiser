@@ -13,18 +13,15 @@ nav {
   color: white;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 30% 60%;
-      grid-template-columns: 30% 60%;
-  -webkit-column-gap: 10%;
-          column-gap: 10%;
+  grid-template-columns: 30% 60%;
+  column-gap: 10%;
   padding: 0% 5%;
 }
 
 nav .array-inputs {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 60% 40%;
-      grid-template-columns: 60% 40%;
+  grid-template-columns: 60% 40%;
   place-content: center;
   padding: 5% 0%;
 }
@@ -54,10 +51,7 @@ nav .header_right {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
 }
 
 nav .header_right .nav-heading {
@@ -117,8 +111,7 @@ section {
   background-color: darkgrey;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 20% 60% 20%;
-      grid-template-columns: 20% 60% 20%;
+   grid-template-columns: 20% 60% 20%;
 }
 
 section #Info_Cont1 {
@@ -166,10 +159,4 @@ section #Info_Cont2 {
 
 }
 */
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
-/*# sourceMappingURL=style.css.map */
+
